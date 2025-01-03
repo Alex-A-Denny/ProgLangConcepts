@@ -1,1 +1,1 @@
-This zip file contains all the work for my Programming Language Concepts course at the Rochester Institute of TEchnology. The course is supposed to be CSCI 344, but when my group named the repository wrong when we started working.
+This zip file contains all the work for my Programming Language Concepts course at the Rochester Institute of TEchnology. The course is supposed to be CSCI 344 and the program functions more as an compiler, but when my group named the repository wrong when we started working.
